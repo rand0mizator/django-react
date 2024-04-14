@@ -1,0 +1,4 @@
+__pycache__/
+db.*
+backend/api/migrations/*
+*.ruff_cache
