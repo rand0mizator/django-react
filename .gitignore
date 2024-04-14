@@ -1,9 +1,8 @@
-*__pycache__/
+**__pycache__/
 db.*
 backend/api/migrations/*
-*.ruff_cache
+**.ruff_cache/
 # Byte-compiled / optimized / DLL files
-__pycache__/
 *.py[cod]
 *$py.class
 
